@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=phaibara&color=blue)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=phaibara&theme=dark&hide_border=true)
+<!-- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=phaibara&theme=dark&hide_border=true) -->
 
 Hello! I'm Priscilla Haibara, a **permanent resident of Canada** with a unique combination of expertise in **front-end development** and a background as a **medical doctor**. Currently in my 4th year of **Software Engineering**, I am passionate about creating impactful **web and mobile applications** that blend technology and user-centric design.
 
