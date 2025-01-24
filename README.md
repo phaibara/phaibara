@@ -16,6 +16,7 @@ Hello! My name is Priscilla Haibara, I am a 4th year Software Engineering studen
 | JavaScript            | 💻      |
 | React Native          | 📱      |
 | Figma                 | 🖌️      |
+| SASS                  | 🎨      |
 
 
 ## 🌟 My Unique Background
