@@ -17,6 +17,7 @@ Hello! My name is Priscilla Haibara, I am a 4th year Software Engineering studen
 | **CSS3**              | <div align="center">![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</div> |
 | **SASS**              | <div align="center">![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)</div> |
 | **JavaScript**        | <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)</div> |
+| **React**             | <div align="center">![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</div> |
 | **React Native**      | <div align="center">![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</div> |
 | **Python**            | <div align="center">![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)</div> |
 
